@@ -14,7 +14,7 @@ Find any PR merge notification email in your inbox, download it as .eml file, an
 
 ## Running locally
 
-To build the Noir circuit (asuming you have [Noir and a backend like bb installed](https://noir-lang.org/docs/getting_started/installation/)):
+To build the Noir circuit (asuming you have [Noir and a backend like bb installed](https://noir-lang.org/docs/getting_started/noir_installation)):
 
 ```
 cd circuits
