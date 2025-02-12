@@ -102,7 +102,7 @@ So during verification, the airdrop issuer will:
 - issue the airdrop to the prover
 
 
-To learn more, read the circuit code in [main.nr](./circuit/src/main.nr) and input generation code in[utils.ts](./app/utils.ts) which has comments to understand the flow.
+To learn more, read the circuit code in [main.nr](./circuit/src/main.nr) and input generation code in [utils.ts](./app/utils.ts) which has comments to understand the flow.
 
 
 ### Limitations
